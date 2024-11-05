@@ -26,6 +26,7 @@ Welcome to the self-service guide designed to help developers identify and mitig
   * [Twilio Account String SID](guide/rotating_hardcoded_secrets/twilio_account_string_sid.md)
 
 * [Integrating with Azure Key Vault](guide/integrating_with_azure_key_vault/README.md)
+  * [Security Best Practices and Checklist](guide/integrating_with_azure_key_vault/security_guide.md)
   * [Setting Up Azure Key Vault](guide/integrating_with_azure_key_vault/setting_up_azure_key_vault.md)
   * [Configuring and Managing Azure Key Vault](guide/integrating_with_azure_key_vault/configuring_and_managing_azure_key_vault.md)
   * [Application Integrations](guide/integrating_with_azure_key_vault/application_integrations/README.md)
